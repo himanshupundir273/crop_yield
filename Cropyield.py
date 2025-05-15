@@ -27,7 +27,7 @@ from sklearn.preprocessing import StandardScaler
 from keras.callbacks import EarlyStopping, ReduceLROnPlateau
 from keras.optimizers import Adam
 from imblearn.over_sampling import SMOTE
-
+#this is python code
 main = tkinter.Tk()
 main.title("Crop Yield Prediction")
 main.geometry("1000x650")
